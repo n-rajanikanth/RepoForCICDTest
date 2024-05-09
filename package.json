@@ -1,0 +1,23 @@
+{
+  "name": "repoforcicdtest",
+  "version": "1.0.0",
+  "description": "For testing Circle CI and Argo CD this repo was created",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-rajanikanth/RepoForCICDTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-rajanikanth/RepoForCICDTest/issues"
+  },
+  "homepage": "https://github.com/n-rajanikanth/RepoForCICDTest#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

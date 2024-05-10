@@ -1,0 +1,13 @@
+apiVersion: v2
+name: developer-portal
+version: 0.1.7
+appVersion: 1.0.7
+description: Developer Portal is our internal deployment of the open source Backstage.io
+
+dependencies:
+  - name: skyway-library-chart
+    version: 0.0.40
+    repository: https://artifactory.moveaws.com/artifactory/Skyway-helm
+  - name: microservices-library-chart
+    version: 2.2.0
+    repository: "https://artifactory.moveaws.com/artifactory/Microservices-helm/"
